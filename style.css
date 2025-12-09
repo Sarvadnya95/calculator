@@ -9,7 +9,7 @@
     font-size: 50px;
     padding-left: 655px;
     padding-right: 655px;
-    background-image: linear-gradient(black,skyblue);
+    background: linear-gradient(black,skyblue);
     color: transparent;
     background-clip:text;
     display: flex;
